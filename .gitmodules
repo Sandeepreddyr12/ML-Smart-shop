@@ -1,0 +1,7 @@
+[submodule "Smart-shop"]
+	path = Smart-shop
+	url = https://github.com/Sandeepreddyr12/Smart-shop.git
+
+[submodule "recom ml Server"]
+	path = recom ml Server
+	url = https://github.com/Sandeepreddyr12/recom-ml-Server.git
